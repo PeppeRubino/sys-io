@@ -1,0 +1,147 @@
+{
+    "high_stable_performance": {
+      "description": "Lo studente sta ottenendo ottimi risultati in modo costante. È fondamentale che continui a mantenere questa stabilità, senza perdere la motivazione. Potrebbe considerare di affrontare sfide più difficili per evitare la noia e stimolare il suo potenziale.",
+      "criteria": {
+        "mean": "high",
+        "median": "high",
+        "std_dev": "low",
+        "mode": "high"
+      }
+    },
+    "high_potential_instable": {
+      "description": "Lo studente ha un grande potenziale, ma la sua performance non è sempre costante. È importante che si concentri sul miglioramento della sua regolarità, magari con un approccio più strutturato per evitare che i risultati fluttuino troppo.",
+      "criteria": {
+        "mean": "high",
+        "median": "medium",
+        "std_dev": "high",
+        "mode": "high"
+      }
+    },
+    "improving_with_fluctuations": {
+      "description": "Lo studente sta migliorando, ma ha ancora alti e bassi nei suoi risultati. Dovrebbe lavorare sulla sua costanza e non arrendersi troppo facilmente nei momenti difficili, perché il miglioramento è già evidente.",
+      "criteria": {
+        "mean": "high",
+        "median": "high",
+        "std_dev": "high",
+        "mode": "low"
+      }
+    },
+    "stable_with_high_mode": {
+      "description": "Lo studente ha una performance stabile, ma continua a raggiungere punteggi elevati in modo ripetuto. È un buon momento per lavorare su nuovi obiettivi o approfondire materie avanzate per evitare che la routine diventi un limite.",
+      "criteria": {
+        "mean": "high",
+        "median": "high",
+        "std_dev": "low",
+        "mode": "medium"
+      }
+    },
+    "medium_performance_with_high_variability": {
+      "description": "Lo studente ha una performance media, ma con grandi fluttuazioni. Sarebbe utile lavorare sulla gestione del tempo e sull'impegno costante per ridurre l'imprevedibilità dei suoi risultati.",
+      "criteria": {
+        "mean": "medium",
+        "median": "medium",
+        "std_dev": "high",
+        "mode": "medium"
+      }
+    },
+    "low_performance_stable": {
+      "description": "Lo studente ha una performance bassa ma stabile. È importante non arrendersi e trovare nuovi modi per affrontare le difficoltà, magari chiedendo supporto e cercando di capire meglio cosa potrebbe migliorare.",
+      "criteria": {
+        "mean": "low",
+        "median": "low",
+        "std_dev": "low",
+        "mode": "low"
+      }
+    },
+    "repetitive_moderate_performance": {
+      "description": "Lo studente ha risultati medi e stabili, ma potrebbe fare di più se si impegnasse in modo più variegato. Potrebbe cercare di spingersi un po' oltre per aumentare la sua motivazione e ottenere punteggi migliori.",
+      "criteria": {
+        "mean": "medium",
+        "median": "medium",
+        "std_dev": "low",
+        "mode": "high"
+      }
+    },
+    "low_performance_concentrated": {
+      "description": "Lo studente ha una performance bassa ma concentrata su determinati momenti. Potrebbe migliorare se lavorasse sulla costanza dei suoi risultati, dedicando più tempo a materie in cui non eccelle.",
+      "criteria": {
+        "mean": "low",
+        "median": "low",
+        "std_dev": "high",
+        "mode": "high"
+      }
+    },
+    "high_performance_with_fluctuations": {
+      "description": "Lo studente ottiene ottimi risultati, ma la sua performance è instabile. È utile concentrarsi sulla gestione del proprio impegno in modo da essere in grado di ripetere questi successi più frequentemente.",
+      "criteria": {
+        "mean": "high",
+        "median": "high",
+        "std_dev": "high",
+        "mode": "medium"
+      }
+    },
+    "medium_performance_with_stability": {
+      "description": "Lo studente ha una performance stabile, ma media. Potrebbe essere il momento di sfidarsi a raggiungere risultati più alti, cercando di fare uno sforzo maggiore in alcune aree specifiche.",
+      "criteria": {
+        "mean": "medium",
+        "median": "medium",
+        "std_dev": "low",
+        "mode": "medium"
+      }
+    },
+    "high_performance_concentrated": {
+      "description": "Lo studente ottiene ottimi risultati, ma solo in determinate aree. È un buon momento per diversificare le sue conoscenze e fare in modo che la sua performance diventi più equilibrata.",
+      "criteria": {
+        "mean": "high",
+        "median": "high",
+        "std_dev": "high",
+        "mode": "high"
+      }
+    },
+    "medium_performance_with_high_fluctuations": {
+      "description": "Lo studente ha risultati medi, ma la sua performance è molto variabile. È fondamentale lavorare sulla costanza e sull'impegno continuo per evitare che i risultati continuino a oscillare.",
+      "criteria": {
+        "mean": "medium",
+        "median": "medium",
+        "std_dev": "high",
+        "mode": "high"
+      }
+    },
+    "low_performance_with_high_variability": {
+      "description": "Lo studente ha una performance bassa, ma con ampie oscillazioni nei suoi risultati. Potrebbe essere utile lavorare sul miglioramento di piccole aree e sull'acquisizione di un approccio più costante.",
+      "criteria": {
+        "mean": "low",
+        "median": "low",
+        "std_dev": "high",
+        "mode": "medium"
+      }
+    },
+    "unstable_performance_with_high_potential": {
+      "description": "Lo studente ha un grande potenziale, ma la sua performance è instabile. È importante che lavori sulla regolarità dei suoi risultati, per esprimere pienamente il suo talento e riuscire a ottenere risultati più stabili.",
+      "criteria": {
+        "mean": "high",
+        "median": "medium",
+        "std_dev": "high",
+        "mode": "low"
+      }
+    },
+    "consistent_moderate_performance": {
+      "description": "Lo studente ottiene risultati stabili ma medi. Potrebbe essere utile cercare di fare un passo in più per uscire dalla zona di comfort e ottenere punteggi più alti.",
+      "criteria": {
+        "mean": "medium",
+        "median": "medium",
+        "std_dev": "low",
+        "mode": "medium"
+      }
+    },
+    "inconsistent_performance_with_high_potential": {
+      "description": "Lo studente ha un grande potenziale, ma i suoi risultati variano molto. Potrebbe essere il momento di concentrarsi sul miglioramento della sua costanza, evitando che la sua performance continui a fluttuare.",
+      "criteria": {
+        "mean": "high",
+        "median": "medium",
+        "std_dev": "high",
+        "mode": "low"
+      }
+    }
+  }
+  
