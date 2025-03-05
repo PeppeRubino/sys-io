@@ -10,6 +10,11 @@ import {
   Tooltip,
   Legend,
   TimeScale,
+  BarController,
+  LineController,
+  ScatterController,
+  PieController,
+  DoughnutController,
 } from "chart.js";
 import ChartDataLabels from "chartjs-plugin-datalabels";
 import { Chart } from "react-chartjs-2";
@@ -26,8 +31,14 @@ ChartJS.register(
   Tooltip,
   Legend,
   TimeScale,
+  BarController, // <- Aggiunto
+  LineController, // <- Aggiunto
+  ScatterController, // <- Aggiunto
+  PieController, // <- Aggiunto
+  DoughnutController, // <- Aggiunto
   ChartDataLabels
 );
+
 
 const formatDate = (input) => {
   let date;
